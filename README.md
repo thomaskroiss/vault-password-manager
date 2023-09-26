@@ -1,3 +1,7 @@
+# Information
+This is a copy of the following repository, in order to perform a static code analysis with Sonar. 
+Link to the repository: https://github.com/gabfl/vault
+
 # Vault
 
 [![Pypi](https://img.shields.io/pypi/v/pyvault.svg)](https://pypi.org/project/pyvault)
